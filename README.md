@@ -6,7 +6,10 @@ I'm Wendy, a Geospatial Analyst and Remote Sensing Specialist passionate about u
 - Experienced in developing reproducible workflows and automating geoprocessing tasks using Python (GeoPandas, rasterio, NumPy, matplotlib).
 - Skilled in spatial storytelling: creating intuitive maps, dashboards, and reports for diverse audiences—from field teams to policymakers.
 - Strong background in interdisciplinary collaboration, technical writing, and translating complex analyses into actionable strategies.
-- Tools of the trade: ArcGIS Pro, QGIS, R, Python, Stata, Power BI, Adobe Illustrator, Survey123, KoboToolbox.
+
+## Tools of the trade 🛠️
+
+ArcGIS Pro, QGIS, R, Python, Stata, Power BI, Adobe Illustrator, Survey123, KoboToolbox.
 
 Currently focused on integrating spatial data science with systematic conservation planning, and committed to building solutions that are as smart as they are sustainable.
 
