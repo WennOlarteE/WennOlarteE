@@ -22,7 +22,7 @@ Currently focused on integrating spatial data science with systematic conservati
 
 ## Projects 📚
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/WennOlarteE/portfolio.).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/WennOlarteE/portfolio).
 
 ## 📫 Let’s connect
 
