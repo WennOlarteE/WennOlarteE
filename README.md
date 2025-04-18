@@ -9,7 +9,11 @@ I'm Wendy, a Geospatial Analyst and Remote Sensing Specialist passionate about u
 
 ## Tools of the trade 🛠️
 
-ArcGIS Pro, QGIS, R, Python, Stata, Power BI, Adobe Illustrator, Survey123, KoboToolbox.
+- Languages: Python, R, SQL
+- Geospatial Tools: ArcGIS Pro, QGIS, GeoPandas, rasterio, Google Earth Engine
+- Visualization: Power BI, Adobe Illustrator, matplotlib, seaborn
+- Data Collection & Management: Excel, Google Sheets, KoboToolbox, Survey123
+- Version Control: Comfortable with Git & GitHub
 
 Currently focused on integrating spatial data science with systematic conservation planning, and committed to building solutions that are as smart as they are sustainable.
 
