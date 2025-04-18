@@ -24,8 +24,12 @@ Currently focused on integrating spatial data science with systematic conservati
 
 Welcome to my portfolio, where I showcase my projects.
 
-## Connect with Me👋🏻
-Linkedin
+## 📫 Let’s connect
+
+Feel free to explore each project and reach out if you'd like to collaborate or learn more.
+
+- 📍 [LinkedIn](https://www.linkedin.com/in/wendyolarte)
+- 📧 Email: [wolarte2017@gmail.com](mailto:wolarte2017@gmail.com)
 
 
 
