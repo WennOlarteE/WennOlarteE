@@ -2,7 +2,7 @@
 
 I'm Wendy, a Geospatial Analyst and Remote Sensing Specialist passionate about using data to inform decision-making in conservation, sustainable development, and humanitarian contexts.
 
-\* Proficient in geospatial analysis and remote sensing, including multitemporal land cover assessments and vegetation index modeling (NDVI, SAR).
+` - Proficient in geospatial analysis and remote sensing, including multitemporal land cover assessments and vegetation index modeling (NDVI, SAR).
 
 \* Experienced in developing reproducible workflows and automating geoprocessing tasks using Python (GeoPandas, rasterio, NumPy, matplotlib).
 
