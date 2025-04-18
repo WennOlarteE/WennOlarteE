@@ -7,6 +7,10 @@ I'm Wendy, a Geospatial Analyst and Remote Sensing Specialist passionate about u
 - Skilled in spatial storytelling: creating intuitive maps, dashboards, and reports for diverse audiences—from field teams to policymakers.
 - Strong background in interdisciplinary collaboration, technical writing, and translating complex analyses into actionable strategies.
 
+Currently focused on integrating spatial data science with systematic conservation planning, and committed to building solutions that are as smart as they are sustainable.
+
+
+
 ## Tools of the trade 🛠️
 
 - Languages: Python, R, SQL
@@ -15,7 +19,7 @@ I'm Wendy, a Geospatial Analyst and Remote Sensing Specialist passionate about u
 - Data Collection & Management: Excel, Google Sheets, KoboToolbox, Survey123
 - Version Control: Comfortable with Git & GitHub
 
-Currently focused on integrating spatial data science with systematic conservation planning, and committed to building solutions that are as smart as they are sustainable.
+
 
 <!--
 **WennOlarteE/WennOlarteE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
