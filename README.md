@@ -20,6 +20,10 @@ Currently focused on integrating spatial data science with systematic conservati
 - Version Control: Comfortable with Git & GitHub
 
 
+## Projects 📚
+
+Welcome to my portfolio, where I showcase my projects.
+
 
 <!--
 **WennOlarteE/WennOlarteE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
